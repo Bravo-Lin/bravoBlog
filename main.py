@@ -10,7 +10,7 @@ from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
 MD_HEAD = """## Bravo-blog
-My personal blog using issues and GitHub Actions (随意转载，无需署名)
+hey, what color is the sea today? 😋
 """
 
 BACKUP_DIR = "BACKUP"
